@@ -7052,10 +7052,6 @@ fieldset[readonly] .textarea {
 		color: #333333;
 		font-weight: 400; }
 
-@media screen and (max-width: 1023px) {
-	#contents {
-		min-width: 852px; } }
-
 @media screen and (max-width: 768px) {
 	#contents {
 		min-width: auto; } }
@@ -7445,6 +7441,22 @@ fieldset[readonly] .textarea {
 		margin-top: 25px; }
 	.login .join .is-text {
 		margin-left: 0; }
+
+.login.is-auth .complete-meseege-copy {
+	background-image: url(/npass/img/ic_join.svg); }
+
+.login.is-auth .buttons {
+	width: 340px;
+	margin-left: auto;
+	margin-right: auto; }
+
+@media screen and (max-width: 768px) {
+	.login.is-auth .buttons {
+		width: 100%; }
+		.login.is-auth .buttons .button {
+			width: 100%;
+			margin-left: 0;
+			margin-right: 0; } }
 
 /* 통합회원 가입 Gate */
 .complete-grid {
