@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108" height="100" viewBox="0 0 108 100">
+  <defs>
+    <filter id="말풍선" x="33" y="6" width="75" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_223" data-name="Group 223" transform="translate(-910 -325)">
+    <g id="ic_mockup" transform="translate(0 11)">
+      <rect id="_area" data-name="@area" width="100" height="100" transform="translate(910 314)" fill="#dedede" opacity="0"/>
+      <g id="ic" transform="translate(963.999 332)">
+        <g id="paper">
+          <g id="Rectangle_379" data-name="Rectangle 379" transform="translate(-38.999 -11)" fill="#fff" stroke="#333" stroke-width="2">
+            <rect width="68" height="86" rx="6" stroke="none"/>
+            <rect x="1" y="1" width="66" height="84" rx="5" fill="none"/>
+          </g>
+          <rect id="Rectangle_383" data-name="Rectangle 383" width="48" height="4" rx="1" transform="translate(-28.999 51)" fill="#e9e9e9"/>
+          <rect id="Rectangle_391" data-name="Rectangle 391" width="48" height="4" rx="1" transform="translate(-28.999 59)" fill="#e9e9e9"/>
+        </g>
+        <g id="연필" transform="translate(-8.507 59.768) rotate(135)">
+          <g id="Union_10" data-name="Union 10" transform="translate(-8156.434 -2503)" fill="#fff">
+            <path d="M 8162.4345703125 2555.506591796875 L 8158.4326171875 2555.506591796875 C 8157.88134765625 2555.506591796875 8157.43310546875 2555.05810546875 8157.43310546875 2554.5068359375 L 8157.43310546875 2553.5068359375 L 8157.43310546875 2510.309326171875 L 8160.4345703125 2505.417724609375 L 8163.43408203125 2510.309326171875 L 8163.43408203125 2549.505126953125 L 8163.43408203125 2554.5068359375 C 8163.43408203125 2555.05810546875 8162.98583984375 2555.506591796875 8162.4345703125 2555.506591796875 Z" stroke="none"/>
+            <path d="M 8162.43408203125 2554.506591796875 L 8162.43408203125 2510.591552734375 L 8160.43408203125 2507.330322265625 L 8158.43310546875 2510.591796875 L 8158.4326171875 2554.506591796875 L 8162.43408203125 2554.506591796875 M 8162.4345703125 2556.506591796875 L 8158.4326171875 2556.506591796875 C 8157.328125 2556.506591796875 8156.43310546875 2555.611328125 8156.43310546875 2554.5068359375 L 8156.43310546875 2510.027099609375 L 8160.4345703125 2503.505126953125 L 8164.43408203125 2510.027099609375 L 8164.43408203125 2554.5068359375 C 8164.43408203125 2555.611328125 8163.5390625 2556.506591796875 8162.4345703125 2556.506591796875 Z" stroke="none" fill="#333"/>
+          </g>
+          <rect id="Rectangle_338" data-name="Rectangle 338" width="8" height="1" transform="translate(0 7.506)" fill="#333"/>
+          <rect id="Rectangle_394" data-name="Rectangle 394" width="7" height="2" transform="translate(0.566 46.506)" fill="#333"/>
+        </g>
+      </g>
+    </g>
+    <g id="ic_motionbox" transform="translate(958 342)">
+      <g transform="matrix(1, 0, 0, 1, -48, -17)" filter="url(#말풍선)">
+        <path id="말풍선-2" data-name="말풍선" d="M0,41V30.377A.308.308,0,0,1,.006,30.3Q0,30.15,0,30V8A8,8,0,0,1,8,0H37a8,8,0,0,1,8,8V30a8,8,0,0,1-8,8H8a8.088,8.088,0,0,1-.821-.042L.938,42A.97.97,0,0,1,0,41Z" transform="translate(48 17)" fill="#04a9a9"/>
+      </g>
+      <g id="icon" transform="translate(11 5)">
+        <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(18.181 0) rotate(60)" fill="none" stroke="#fff" stroke-width="2">
+          <ellipse cx="3" cy="5" rx="3" ry="5" stroke="none"/>
+          <ellipse cx="3" cy="5" rx="2" ry="4" fill="none"/>
+        </g>
+        <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(14.181 5) rotate(120)" fill="none" stroke="#fff" stroke-width="2">
+          <ellipse cx="3" cy="5" rx="3" ry="5" stroke="none"/>
+          <ellipse cx="3" cy="5" rx="2" ry="4" fill="none"/>
+        </g>
+        <g id="Rectangle_384" data-name="Rectangle 384" transform="translate(0 6)" fill="#04a9a9" stroke="#fff" stroke-width="2">
+          <rect width="24" height="8" stroke="none"/>
+          <rect x="1" y="1" width="22" height="6" fill="none"/>
+        </g>
+        <g id="Rectangle_385" data-name="Rectangle 385" transform="translate(2 12)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="20" height="14" stroke="none"/>
+          <rect x="1" y="1" width="18" height="12" fill="none"/>
+        </g>
+        <rect id="Rectangle_386" data-name="Rectangle 386" width="2" height="10" transform="translate(11 14)" fill="#fff" opacity="0.5"/>
+        <rect id="Rectangle_387" data-name="Rectangle 387" width="2" height="4" transform="translate(11 8)" fill="#fff" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
